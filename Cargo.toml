@@ -1,0 +1,11 @@
+[package]
+name = "Simple-Installer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+iced = { version = "0.14", features = ["tokio", "image"] }
+rfd = "0.17"
+zstd = "0.14"
+tar = "0.4"
+toml = "1.2.2"
