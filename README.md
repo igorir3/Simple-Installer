@@ -10,7 +10,7 @@
 
 ## Python
 
-Тут нужен Python версии 3.14+, и библиотеки:
+Тут нужен Python версии 3.14, и библиотеки:
 ```sh
 pip install zstandard shutil
 ```
